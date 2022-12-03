@@ -6,6 +6,7 @@ Drawing the solution of  finding the smallest circle that completely contains a 
 * [General info](#general-info)
 * [Technologies-Tools](#technologies-tools)
 * [Setup](#setup)
+* [Contact](#contact)
 
 
 
@@ -31,5 +32,13 @@ Project is created with:
 ## Setup
 To run this project, run from the IDE or after change directory to project folder, run 'Son' on the terminal.
 
-`$.\Do-You-Know-graphics.h\Son`
+```
+$ cd .\Do-You-Know-graphics.h
+$ Son
+```
 
+## Contact
+
+Ali Barış Zengin  -  [alibariszengin@gmail.com](mailto:alibariszengin@gmail.com)
+
+Project Link:  [https://github.com/alibariszengin/Do-You-Know-graphics.h/](https://github.com/alibariszengin/Do-You-Know-graphics.h/)
