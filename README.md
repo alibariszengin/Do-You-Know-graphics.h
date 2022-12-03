@@ -1,10 +1,10 @@
-﻿# The Smallest Circle
+# The Smallest Circle
 
 Drawing the solution of  finding the smallest circle that completely contains a set of random points (The Smallest Circle or Minimum Enclosing Circle Problem) and drawing the b-spline of these points.
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies-Tools](#technologies)
+* [Technologies-Tools](#technologies-tools)
 * [Setup](#setup)
 
 
