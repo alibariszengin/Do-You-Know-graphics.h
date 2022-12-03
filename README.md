@@ -7,9 +7,9 @@ Drawing the solution of  finding the smallest circle that completely contains a 
 * [Technologies](#technologies)
 * [Setup](#setup)
 
-```
+
 ![Drawing](Do-You-Know-graphics.h/cirlce.png "Optional Title")
-```
+
 
 
 
