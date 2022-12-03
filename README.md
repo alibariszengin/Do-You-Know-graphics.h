@@ -4,7 +4,7 @@ Drawing the solution of  finding the smallest circle that completely contains a 
 
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
+* [Technologies-Tools](#technologies)
 * [Setup](#setup)
 
 
