@@ -8,7 +8,7 @@ Drawing the solution of  finding the smallest circle that completely contains a 
 * [Setup](#setup)
 
 
-![Drawing](./Do-You-Know-graphics.h/cirlce.png?raw=true "Optional Title")
+![Drawing]((https://github.com/alibariszengin/Do-You-Know-graphics.h/blob/master/Do-You-Know-graphics.h/circle.png))
 
 
 
