@@ -8,7 +8,7 @@ Drawing the solution of  finding the smallest circle that completely contains a 
 * [Setup](#setup)
 
 ```
-![Drawing](/cirlce.png "Optional Title")
+![Drawing](Do-You-Know-graphics.h/cirlce.png "Optional Title")
 ```
 
 
